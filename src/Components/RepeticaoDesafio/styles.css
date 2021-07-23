@@ -1,0 +1,16 @@
+.tabela-produtos{
+  width: 100%;
+}
+
+.tabela-produtos-head{
+  background-color: rgb(255, 0, 0);
+  color: #fff;
+}
+
+.tabela-produtos-head tr th{
+  padding: 8px 0;
+}
+
+.par{
+  background-color: rgb(204, 204, 204);
+}

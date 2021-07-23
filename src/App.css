@@ -1,0 +1,42 @@
+.cards{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.title-1.title-1{
+  background-color: rgb(118, 160, 2);
+}
+
+.card-1.card-1{
+  border-color: rgb(118, 160, 2);
+}
+
+.title-2.title-2{
+  background-color: rgb(69, 101, 245);
+}
+
+.card-2.card-2{
+  border-color: rgb(69, 101, 245);
+}
+
+.card-2.card-2 .description{
+  font-size: 1.5rem;
+  font-weight: bolder;
+}
+
+.title-3.title-3{
+  background-color: rgb(16, 133, 88);
+}
+
+.card-3.card-3{
+  border-color: rgb(16, 133, 88);
+}
+
+.title.title-4{
+  background-color: #ffcc5c;
+}
+
+.card.card-4{
+  border-color: #ffcc5c;
+}
